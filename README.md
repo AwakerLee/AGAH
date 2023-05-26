@@ -1,5 +1,5 @@
 # CAGAN
-CLIP-based Adaptive Graph Attention Network for unsupervised cross-modal hashing retrieval.
+CLIP-based Adaptive Graph Attention Network for unsupervised multi-modal hashing retrieval.
 
 More details will be updated soon.
 
