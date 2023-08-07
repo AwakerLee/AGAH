@@ -1,4 +1,4 @@
-## CLIP-based Fusion-modal Reconstructing Hashing for Unsupervised Large-scale Cross-modal Retrieval
+## Adaptive Graph Attention Hashing for Unsupervised Cross-modal Retrieval via Multimodal Transformers
 
 This repository contains the author's implementation in PyTorch for the APWEB-WAIM-23 paper "Adaptive Graph Attention Hashing for Unsupervised Cross-modal Retrieval via Multimodal Transformers".
 
