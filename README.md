@@ -30,12 +30,12 @@ For datasets, we follow [Deep Cross-Modal Hashing's Github (Jiang, CVPR 2017)](h
  
 ## Implementation
 
-Here we provide the implementation of our proposed models, along with datasets. The repository is organised as follows:
+Here we provide the implementation of our proposed models, along with datasets. The repository is organized as follows:
 
  - `data/` contains the necessary dataset files for NUS-WIDE, MIRFlickr, and MS-COCO;
  - `models.py` contains the implementation of the model;
  
- Finally, `main.py` puts all of the above together and can be used to execute a full training run on MIRFlcikr or NUS-WIDE or MS-COCO.
+ Finally, `main.py` puts all of the above together and can be used to execute a full training run on MIRFlcikr, NUS-WIDE, or MS-COCO.
 
 ## Process
  - Place the datasets in `data/`
@@ -52,5 +52,4 @@ Here we provide the implementation of our proposed models, along with datasets. 
 ## Citation
 If you find our work or the code useful, please consider cite our paper using:
 ```bash
-}
 ```
